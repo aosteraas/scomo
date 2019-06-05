@@ -1,6 +1,6 @@
 {
   "name": "scomo",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "How good's this?",
   "main": "index.js",
   "scripts": {
