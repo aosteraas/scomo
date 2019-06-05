@@ -43,7 +43,7 @@ function Scomo(props) {
   (0, _react.useEffect)(function () {
     document.addEventListener('mouseup', handleThat);
     return function () {
-      return document.removeEventListener('mouseup');
+      return document.removeEventListener('mouseup', handleThat);
     };
   });
 
