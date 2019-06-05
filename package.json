@@ -7,7 +7,11 @@
     "test": "echo \"Error: no test specified\" && exit 1",
     "build": "./node_modules/.bin/babel src --out-file index.js"
   },
-  "author": "",
+  "author": "Aaron Osteraas",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aosteraas/scomo.git"
+  },
   "license": "ISC",
   "devDependencies": {
     "@babel/cli": "^7.4.4",
