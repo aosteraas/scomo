@@ -21,7 +21,7 @@ export default function Scomo(props) {
 
   useEffect(() => {
     document.addEventListener('mouseup', handleThat);
-    return () => document.removeEventListener('mouseup');
+    return () => document.removeEventListener('mouseup', handleThat);
   });
 
   function handleThat() {

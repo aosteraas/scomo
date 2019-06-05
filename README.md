@@ -25,3 +25,11 @@ Leans into bias to confirm whatever you highlighted is as good as you believe it
 ![How goods coal](how-goods-coal.png)
 
 It is not elegant, but it is at least true to life.
+
+## Props
+
+| Name       | Description        | Example values       |
+| ---------- | ------------------ | -------------------- |
+| `imgsrc`   | The image to load  | String: `img.png`    |
+| `imgwidth` | Width of image     | Number: `320`        |
+| `imgalt`   | Alt text for image | String: `tax credit` |
