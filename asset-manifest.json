@@ -1,16 +1,15 @@
 {
   "files": {
     "main.css": "/scomo/static/css/main.2cce8147.chunk.css",
-    "main.js": "/scomo/static/js/main.8bcce7e6.chunk.js",
-    "main.js.map": "/scomo/static/js/main.8bcce7e6.chunk.js.map",
+    "main.js": "/scomo/static/js/main.c2cd197f.chunk.js",
+    "main.js.map": "/scomo/static/js/main.c2cd197f.chunk.js.map",
     "runtime~main.js": "/scomo/static/js/runtime~main.a0228c4c.js",
     "runtime~main.js.map": "/scomo/static/js/runtime~main.a0228c4c.js.map",
-    "static/js/2.b41502e9.chunk.js": "/scomo/static/js/2.b41502e9.chunk.js",
-    "static/js/2.b41502e9.chunk.js.map": "/scomo/static/js/2.b41502e9.chunk.js.map",
+    "static/js/2.cf6d213a.chunk.js": "/scomo/static/js/2.cf6d213a.chunk.js",
+    "static/js/2.cf6d213a.chunk.js.map": "/scomo/static/js/2.cf6d213a.chunk.js.map",
     "index.html": "/scomo/index.html",
-    "precache-manifest.dc0871296237c84ace522dcad6f83a13.js": "/scomo/precache-manifest.dc0871296237c84ace522dcad6f83a13.js",
+    "precache-manifest.46dc530fb335c69f3088181a8ce168d5.js": "/scomo/precache-manifest.46dc530fb335c69f3088181a8ce168d5.js",
     "service-worker.js": "/scomo/service-worker.js",
-    "static/css/main.2cce8147.chunk.css.map": "/scomo/static/css/main.2cce8147.chunk.css.map",
-    "static/media/logo.svg": "/scomo/static/media/logo.5d5d9eef.svg"
+    "static/css/main.2cce8147.chunk.css.map": "/scomo/static/css/main.2cce8147.chunk.css.map"
   }
 }
