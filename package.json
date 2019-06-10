@@ -12,6 +12,7 @@
     "type": "git",
     "url": "git+https://github.com/aosteraas/scomo.git"
   },
+  "homepage": "https://aosteraas.github.io/scomo/",
   "license": "ISC",
   "devDependencies": {
     "@babel/cli": "^7.4.4",
