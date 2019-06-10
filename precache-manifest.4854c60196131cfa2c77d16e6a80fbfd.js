@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "dd49b7e88af760ab5911ce2ac65c7fc1",
+    "revision": "38a1c3bd78b719efe12b43de9b16f103",
     "url": "/scomo/index.html"
   },
   {
@@ -8,8 +8,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/scomo/static/css/main.2cce8147.chunk.css"
   },
   {
-    "revision": "a22636f7e13997555308",
-    "url": "/scomo/static/js/2.cf6d213a.chunk.js"
+    "revision": "5d390e4c2677bc9c3c74",
+    "url": "/scomo/static/js/2.79f616e0.chunk.js"
   },
   {
     "revision": "a80ba4640fd32b635a5d",
